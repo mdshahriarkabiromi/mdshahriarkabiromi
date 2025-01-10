@@ -1,11 +1,32 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdshahriarkabiromi&label=Profile%20views&color=0e75b6&style=flat" alt="mahiamOmO" /> </p>
 
-# Konichiwa 👋
-<br>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Konichiwa!+👋;+I'm+Shahriar+Kabir+Omi!;" />
+</h1>
+
+   <img align="right" alt="coding" width="400" src="https://github.com/mdshahriarkabiromi/mdshahriarkabiromi/blob/main/Gifs/luffy_konichiwa.gif">
+
+<h3 align="center"> A Python Developer</h3> 
+
+<br/>
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/mdshahriarkabiromi/mdshahriarkabiromi/blob/main/Gifs/luffy_konichiwa.gif">
-</div>
+
+ 🎓 I’m currently studying Computer Science and Engineering (CSE).
+
+ 🔭 I’m currently working on **SimbaAI**
+ 
+ 🌱 I’m currently learning **Python, Data Science**
+
+⚡ Fun fact **Let's talk about this over a cup of tea of coffee**
 <br>
+<a href="mailto:shahriar.eu.cse59@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/shahriarkabiromi/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+</a>
+ </div>
+
 
 # ⚡Git Stats ⚡
 <div align="center">
@@ -16,7 +37,6 @@
 </div>
 
 <br/><br/>
-
 <hr/>
 
 <br/>
@@ -24,16 +44,12 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mdshahriarkabiromi&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
 
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 ###
 
 </br>
 </br>
-</br>
-
-
 # About ME 💬 :
 
 ### - I'm 22 years old Machine Learning & Artificial Intelligence Enthusiast from Bangladesh.
@@ -53,15 +69,12 @@
 </br>
 </br>
 
-
-
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+### -⚒️ Languages-Frameworks-Tools ⚒️
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=py,c,cpp,html,css,tensorflow"/>
     <img src="https://skillicons.dev/icons?i=git,github"/><br>
 </div>
-
 <br/>
 <hr/>
 
