@@ -1,10 +1,11 @@
 # Konichiwa 👋
-
-###
-
+<br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/mdshahriarkabiromi/mdshahriarkabiromi/blob/main/Gifs/luffy_konichiwa.gif">
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdshahriarkabiromi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdshahriarkabiromi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -16,7 +17,7 @@
 
 # About ME 💬 :
 
-### - I'm 22 years  old Machine Learning & Artificial Intelligence Enthusiast from Bangladesh.
+### - I'm 22 years old Machine Learning & Artificial Intelligence Enthusiast from Bangladesh.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
@@ -74,13 +75,5 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 </br>
 </a>
-
-
-
-<p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
-  </a>
-  </p>
 
 *************
