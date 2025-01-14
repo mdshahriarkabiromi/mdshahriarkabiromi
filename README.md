@@ -13,7 +13,7 @@
 
  🎓 I’m currently studying Computer Science and Engineering (CSE).
 
- 🔭 I’m currently working on **SimbaAI**
+ 🔭 I’m currently working on **Simba-AI**
  
  🌱 I’m currently learning **Python, Data Science**
 
