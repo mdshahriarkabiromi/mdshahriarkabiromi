@@ -6,7 +6,7 @@
 
    <img align="right" alt="coding" width="400" src="https://github.com/mdshahriarkabiromi/mdshahriarkabiromi/blob/main/Gifs/luffy_konichiwa.gif">
 
-<h3 align="center"> A Python Developer</h3> 
+<h3 align="center"> A <b>Python</b> Developer</h3>
 
 <br/>
 <div align="center">
